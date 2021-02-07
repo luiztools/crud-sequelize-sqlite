@@ -1,0 +1,24 @@
+{
+  "name": "crud-sequelize-sqlite",
+  "version": "1.0.0",
+  "description": "A simple Node.js+Sequelize+SQLite CRUD example.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiztools/crud-sequelize-sqlite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiztools/crud-sequelize-sqlite/issues"
+  },
+  "homepage": "https://github.com/luiztools/crud-sequelize-sqlite#readme",
+  "dependencies": {
+    "sequelize": "^6.5.0",
+    "sqlite3": "^5.0.1"
+  }
+}
